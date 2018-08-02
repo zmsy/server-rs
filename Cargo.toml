@@ -1,0 +1,7 @@
+[package]
+name = "server-rs"
+version = "0.1.0"
+authors = ["Zach Morrissey '<@zmsy>'"]
+
+[dependencies]
+rand = "0.5.1"
